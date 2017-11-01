@@ -1,0 +1,18 @@
+body
+{
+	background-image: "img/bgimg.jpg";
+	background-size: 100% 100%;
+	background-attachment: fixed;
+}
+
+.a-title{
+	text-decoration: none;
+	/*outline: none;*/
+	color: inherit;
+}
+.a-title:hover{
+	text-decoration: none;
+	outline: none;
+	/*color: #337ab7;*/
+	color: webkit-link;
+}
